@@ -1,1 +1,1 @@
-This is an issue tracker page for my current project.
+This is an issue tracking page of my current project.
